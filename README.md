@@ -107,6 +107,8 @@ print("Input Power:", Pin, "dBm")
 print("Output Power:", Pin-loss, "dBm")
 print("Insertion Loss:", loss, "dB")
 ```
+## Tabulation
+<img width="1600" height="1002" alt="image" src="https://github.com/user-attachments/assets/7e5607c0-7f5d-4b33-9a0a-db366e0ab8f4" />
 
 ## Output
 <img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/a92f9b3d-0b7a-4bb1-99be-3ca4f2eb14a9" />
